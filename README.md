@@ -26,13 +26,13 @@ Track your productivity and manage ChatGPT usage limits effectively. This extens
 ## Installation
 
 ### From Chrome Web Store
-1. Visit the [Chrome Web Store listing](link-to-be-added)
-2. Click "Add to Chrome"
-3. Visit ChatGPT and enjoy timestamps!
+🔄 **Extension currently under review** - Chrome Web Store approval pending
 
 ### Manual Installation (Developer Mode)
 1. Download this repository
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable "Developer mode" in the top right
 4. Click "Load unpacked" and select the `src/` folder
-5. Visit ChatGPT to see timestamps appear
+5. Visit ChatGPT to see timestamps appear 
+
+
