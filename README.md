@@ -21,9 +21,7 @@ Track your productivity and manage ChatGPT usage limits effectively. This extens
 
 ## Demo
 
-<video width="800" controls>
-  <source src="assets/chatgpt_timestamp.mp4" type="video/mp4">
-</video>
+![ChatGPT with Timestamps](assets/screenshot.png)
 
 ## Installation
 
