@@ -23,8 +23,6 @@ Track your productivity and manage ChatGPT usage limits effectively. This extens
 
 ![ChatGPT with Timestamps](assets/screenshot.png)
 
-https://github.com/user-attachments/assets/your-video-id-here
-
 ## Installation
 
 ### From Chrome Web Store
