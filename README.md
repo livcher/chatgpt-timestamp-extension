@@ -21,7 +21,9 @@ Track your productivity and manage ChatGPT usage limits effectively. This extens
 
 ## Demo
 
-https://github.com/Hangzhi/chatgpt-timestamp-extension/raw/main/assets/chatgpt_timestamp.mp4
+<video width="800" controls>
+  <source src="assets/chatgpt_timestamp.mp4" type="video/mp4">
+</video>
 
 ## Installation
 
