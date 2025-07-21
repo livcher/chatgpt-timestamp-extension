@@ -1,38 +1,31 @@
 # ChatGPT Timestamp Extension
 
-A Chrome extension that adds timestamps to ChatGPT messages for better conversation tracking and productivity analysis.
-
-## Features
-
-- ✅ **Timestamp Display** - Shows exact date and time for every ChatGPT message
-- ✅ **Clean UI** - Seamlessly integrates with ChatGPT's interface
-- ✅ **Readable Format** - Uses "May 12 2025 - 14:30:45" format to avoid confusion
-- ✅ **Automatic Updates** - Works with new messages as they appear
-
-## Why Use This Extension?
-
-Track your productivity and manage ChatGPT usage limits effectively. This extension helps you:
-
-• **Monitor rate limits** - See exactly when you hit daily limits and when they reset  
-• **Track productivity** - Measure how long tasks take with ChatGPT vs traditional methods  
-• **Find conversations easily** - Locate specific discussions by date/time instead of vague references  
-• **Version control code** - Track multiple iterations when developing with ChatGPT  
-• **Navigate long chats** - Understand conversation flow in extended sessions
-
-## Demo
+A simple Chrome extension that displays timestamps for ChatGPT messages. The timestamps are already in the DOM - this just makes them visible.
+## Screenshot
 
 ![ChatGPT with Timestamps](assets/screenshot.png)
 
+## What it does
+
+Shows when each message was sent in a clean format: "May 12 2025 - 14:30:45"
+
+## Why I built this
+
+I kept losing track of old conversations and couldn't remember when discussions happened. Now I can find specific chats by date/time instead of scrolling endlessly.
+
+Also helpful for:
+- Knowing when you hit rate limits and when they reset
+- Tracking how long tasks take
+- Finding different versions when iterating on code
+
 ## Installation
 
-### From Chrome Web Store
-🔄 **Extension currently under review** - Chrome Web Store approval pending
+**Chrome Web Store:** [Install from Chrome Web Store](https://chromewebstore.google.com/detail/kdjfhglijhebcchcfkknicfaedhhfpmo?utm_source=item-share-cb)
 
-### Manual Installation (Developer Mode)
-1. Download this repository
-2. Open Chrome and go to `chrome://extensions/`
-3. Enable "Developer mode" in the top right
-4. Click "Load unpacked" and select the `src/` folder
-5. Visit ChatGPT to see timestamps appear 
-
+**Manual install:**
+1. Download this repo
+2. Open `chrome://extensions/`
+3. Enable Developer mode
+4. Load unpacked → select the `src/` folder
+5. Visit ChatGPT
 
