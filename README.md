@@ -25,6 +25,8 @@ Also helpful for:
 ## Installation
 
 **Chrome Web Store:** [Install from Chrome Web Store](https://chromewebstore.google.com/detail/kdjfhglijhebcchcfkknicfaedhhfpmo?utm_source=item-share-cb)
+**Mozilla Add-on:** [Install from Mozilla Add-on](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-timestamp)
+
 
 **Manual install:**
 1. Download this repo
